@@ -1,6 +1,6 @@
 # Input & Output
 inputJar: "input.jar"
-outputDir: "output.jar"
+outputDir: "output"
 
 # Libraries
 libraries: ["./libs.jar", "./generated/output-libs.jar"]
