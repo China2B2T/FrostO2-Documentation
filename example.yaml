@@ -1,0 +1,9 @@
+# Input & Output
+inputJar: "input.jar"
+outputDir: "output.jar"
+
+# Libraries
+libraries: ["./libs.jar", "./generated/output-libs.jar"]
+
+# Exclusions
+exclusions: ["org/china2b2t/frostoxy/api/ExcludedMethod", "org/china2b2t/frostoxy/api/BadConfigurationException"]
